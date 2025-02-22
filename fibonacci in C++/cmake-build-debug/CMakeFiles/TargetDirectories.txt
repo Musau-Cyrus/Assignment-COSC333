@@ -1,0 +1,3 @@
+/home/cyrus/CLionProjects/fibonacci in C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cyrus/CLionProjects/fibonacci in C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cyrus/CLionProjects/fibonacci in C++/cmake-build-debug/CMakeFiles/fibonacci_in_C__.dir
