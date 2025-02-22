@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/Factorial_In_C__.dir/main.cpp.o  -o Factorial_In_C__ 
