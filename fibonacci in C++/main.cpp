@@ -2,9 +2,6 @@
 using namespace std;
 
 int main() {
-   /*n: This variable will store the number of terms in the Fibonacci series that the user wants to display.
-    t1 and t2: These are the first two terms of the Fibonacci series, initialized to 0 and 1, respectively.
-    nextTerm: This variable will store the next term in the series, calculated as the sum of t1 and t2.*/
     int n, t1 = 0, t2 = 1, nextTerm = 0;
 
     // Prompt the user to enter the number of terms they need displayed in the terminal.
